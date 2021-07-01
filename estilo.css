@@ -1,0 +1,40 @@
+body {
+  background: #b1d4e0;
+}
+
+div {
+  background-color: #2e8bc0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+h2,
+p,
+ol {
+  font-family: sans-serif;
+  color: #0c2d48;
+}
+
+h1 {
+  color: #ffffff;
+  align-content: center;
+  font-weight: 900;
+  text-decoration: underline;
+}
+
+section {
+  width: 250px;
+  height: 320px;
+  background: #05445eed;
+  font-size: 15px;
+
+  border: 3px solid #fff;
+}
+
+input,
+textarea,
+button {
+  margin: 15px 20px;
+}
